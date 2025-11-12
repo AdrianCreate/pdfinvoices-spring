@@ -1,0 +1,7 @@
+com\adrianalexandru\service\InvoiceService.class
+com\adrianalexandru\ApplicationLauncher.class
+com\adrianalexandru\service\UserService.class
+com\adrianalexandru\web\MyFancyPdfInvoicesController.class
+com\adrianalexandru\model\User.class
+com\adrianalexandru\context\MyFancyPdfInvoicesApplicationConfiguration.class
+com\adrianalexandru\model\Invoice.class

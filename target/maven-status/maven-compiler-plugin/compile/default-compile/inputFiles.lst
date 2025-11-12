@@ -1,2 +1,7 @@
 D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\ApplicationLauncher.java
-D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\MyFirstServlet.java
+D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\context\MyFancyPdfInvoicesApplicationConfiguration.java
+D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\model\Invoice.java
+D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\model\User.java
+D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\service\InvoiceService.java
+D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\service\UserService.java
+D:\SelfStudy\myfancypdfinvoices\src\main\java\com\adrianalexandru\web\MyFancyPdfInvoicesController.java
